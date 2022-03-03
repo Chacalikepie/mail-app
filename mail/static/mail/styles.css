@@ -1,0 +1,8 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-view {
+    margin-left: auto;
+    margin-right: auto;
+}

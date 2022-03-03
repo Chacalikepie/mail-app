@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mail",
+    "\\mail\\static",
+    "\\mail\\static\\mail",
+    "\\mail\\templates",
+    "\\mail\\templates\\mail",
+    "\\project3"
+  ],
+  "SelectedNode": "\\mail\\templates\\mail\\layout.html",
+  "PreviewInSolutionExplorer": false
+}
